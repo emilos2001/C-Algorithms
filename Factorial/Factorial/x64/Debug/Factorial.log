@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Igor\source\repos\Factorial\Factorial\Source.c(6,10): warning C4013: 'factorial' undefined; assuming extern returning int
+  Factorial.vcxproj -> C:\Users\Igor\source\repos\Factorial\x64\Debug\Factorial.exe
