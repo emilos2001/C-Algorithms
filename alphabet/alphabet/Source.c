@@ -4,7 +4,7 @@
 
 int main() {
 	char alphabet[] = "abcdefghijklmnopqrstuvwyxz";
-	char vowels[] = "aeiou";
+	char vowels[] = "AEIOUaeiou";
 	size_t length = strlen(alphabet);
 	for (int i = 0; i < length; i++) {
 		for (int j = 0; j < strlen(vowels); j++) {
