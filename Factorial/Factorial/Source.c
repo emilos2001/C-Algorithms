@@ -7,6 +7,7 @@ int main() {
 	printf("The factorial of the number %d is: %d\n", n, s);
 	return 0;
 }
+
 int factorial(int n) {
 	if (n == 0 || n == 1) 
 	{
